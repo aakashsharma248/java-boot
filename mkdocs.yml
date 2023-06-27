@@ -1,0 +1,8 @@
+site_name: "SpringBoot"
+site_description: "this is all about the boot package"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
