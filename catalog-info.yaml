@@ -4,8 +4,9 @@ metadata:
   name: "SpringBoot"
   description: "this is all about the boot package"
   annotations:
-    github.com/project-slug: Iesoft/java boot
+    github.com/project-slug: aakashsharma248/java-boot
     backstage.io/techdocs-ref: dir:.
+    backstage.io/managed-by-location: url:https://github.com/aakashsharma248/java-boot/edit/master/catalog-info.yaml
 spec:
   type: service
   lifecycle: experimental
